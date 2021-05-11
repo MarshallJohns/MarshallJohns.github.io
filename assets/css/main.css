@@ -3236,6 +3236,6 @@ section, summary, time, mark, audio, video {
 	}
 	
 
-	a:visited {
+	a{
 		text-decoration: none;
 	}
